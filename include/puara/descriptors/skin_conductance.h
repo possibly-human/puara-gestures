@@ -12,7 +12,7 @@
 
 #include <puara/structs.h>
 #include <puara/utils.h>
-#include <3rdparty/BioData/src/SkinConductance.h>
+#include "BioData/src/SkinConductance.h"
 
 #include <cmath>
 

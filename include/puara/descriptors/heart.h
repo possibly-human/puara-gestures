@@ -12,7 +12,7 @@
 
 #include <puara/structs.h>
 #include <puara/utils.h>
-#include <3rdparty/BioData/src/Heart.h>
+#include "BioData/src/Heart.h"
 
 #include <cmath>
 
